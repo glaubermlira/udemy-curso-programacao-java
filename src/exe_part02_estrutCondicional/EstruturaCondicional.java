@@ -103,6 +103,27 @@ public class EstruturaCondicional {
 //		}
 
 //		EXERCICIO 07;
+//		double x, y;
+//
+//		System.out.println("Informe o eixo de X: ");
+//		x = in.nextDouble();
+//		System.out.println("Informe o eixo de Y: ");
+//		y = in.nextDouble();
+//
+//		if (x == 0.0 && y == 0.0) {
+//			System.out.println("Origem");
+//		} else if (x > 0 && y > 0) {
+//			System.out.println("Q1");
+//		} else if (x < 0 && y > 0) {
+//			System.out.println("Q2");
+//		} else if (x < 0 && y < 0) {
+//			System.out.println("Q3");
+//		} else {
+//			System.out.println("Q4");
+//		}
+		
+		
+//		EXERCICIO 08;
 
 		in.close();
 
